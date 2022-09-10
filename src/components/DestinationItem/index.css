@@ -1,5 +1,10 @@
 .image-style {
   height: 200px;
-  width: 300px;
-  margin-top: 30px;
+  width: 320px;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-weight: 510;
+  color: #252627;
+  font-size: 15px;
 }
